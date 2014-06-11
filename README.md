@@ -1,4 +1,4 @@
-Datasciencecoursera
+## datasciencecoursera
 ===================
 
-The Data Scientist's Toolkit repo
+### The Data Scientist's Toolkit repo
